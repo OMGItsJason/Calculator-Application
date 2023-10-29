@@ -1,0 +1,10 @@
+C:\Users\Jason User\Documents\Calculator Application\Calculator Application\bin\Debug\Calculator Application.exe.config
+C:\Users\Jason User\Documents\Calculator Application\Calculator Application\bin\Debug\Calculator Application.exe
+C:\Users\Jason User\Documents\Calculator Application\Calculator Application\bin\Debug\Calculator Application.pdb
+C:\Users\Jason User\Documents\Calculator Application\Calculator Application\obj\Debug\Calculator Application.csproj.AssemblyReference.cache
+C:\Users\Jason User\Documents\Calculator Application\Calculator Application\obj\Debug\Calculator_Application.FrmCalculatore.resources
+C:\Users\Jason User\Documents\Calculator Application\Calculator Application\obj\Debug\Calculator_Application.Properties.Resources.resources
+C:\Users\Jason User\Documents\Calculator Application\Calculator Application\obj\Debug\Calculator Application.csproj.GenerateResource.cache
+C:\Users\Jason User\Documents\Calculator Application\Calculator Application\obj\Debug\Calculator Application.csproj.CoreCompileInputs.cache
+C:\Users\Jason User\Documents\Calculator Application\Calculator Application\obj\Debug\Calculator Application.exe
+C:\Users\Jason User\Documents\Calculator Application\Calculator Application\obj\Debug\Calculator Application.pdb
